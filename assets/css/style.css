@@ -10900,7 +10900,7 @@ body {
 }
 .rts-title-area::after {
   position: absolute;
-  content: "About Us";
+  content: "Про нас";
   left: -14%;
   top: -39%;
   color: #ffffff;
@@ -10957,7 +10957,7 @@ body {
   margin-bottom: 24px;
 }
 .rts-title-area.service::after {
-  content: "Services";
+  content: "Послуги";
   left: 50%;
   transform: translateX(-50%);
 }
@@ -10984,13 +10984,13 @@ body {
   z-index: -1;
 }
 .rts-title-area.gallery::after {
-  content: "Gallery";
+  content: "Проекти";
   left: 18%;
   transform: translateX(-50%);
   z-index: -1;
 }
 .rts-title-area.team::after {
-  content: "Members";
+  content: "Команда";
   left: 49%;
   transform: translateX(-50%);
   z-index: -1;
@@ -11018,7 +11018,7 @@ body {
   }
 }
 .rts-title-area.reviews::after {
-  content: "Reviews";
+  content: "Відгуки";
   left: 32%;
   transform: translateX(-50%);
   z-index: -1;
@@ -11026,7 +11026,7 @@ body {
   top: 2%;
 }
 .rts-title-area.contact::after {
-  content: "Hello";
+  content: "Привіт";
   left: 52%;
   transform: translateX(-50%);
   z-index: -1;
@@ -32760,7 +32760,7 @@ p.disc {
   height: 150px;
   margin: -75px 0 0 -75px;
   border: var(--line-width) solid transparent;
-  border-top-color: var(--outer-line-color);
+  border-top-color: #FFDE59;
   border-radius: 100%;
   -webkit-animation: spin 2s linear infinite;
   animation: spin 2s linear infinite;
@@ -32775,7 +32775,7 @@ p.disc {
   right: 4px;
   bottom: 4px;
   border: var(--line-width) solid transparent;
-  border-top-color: var(--inner-line-color);
+  border-top-color: #5271FF;
   border-radius: 100%;
   -webkit-animation: spin 3s linear infinite;
   animation: spin 3s linear infinite;
@@ -32789,7 +32789,7 @@ p.disc {
   right: 14px;
   bottom: 14px;
   border: var(--line-width) solid transparent;
-  border-top-color: var(--middle-line-color);
+  border-top-color: #FFC619;
   border-radius: 100%;
   -webkit-animation: spin 1.5s linear infinite;
   animation: spin 1.5s linear infinite;
