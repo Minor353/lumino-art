@@ -15265,16 +15265,6 @@ body.sal-disabled [data-sal|=flip] {
 .header-top-one .right .social-wrapper-one i {
   color: #fff;
 }
-.header-top-one .right .social-wrapper-one::after {
-  position: absolute;
-  content: "";
-  width: 1px;
-  height: 14px;
-  left: -25px;
-  top: 50%;
-  transform: translateY(-50%);
-  background: #F36464;
-}
 .header-top-one.header-top-four {
   border-bottom: 1px solid #EDEDED;
 }
